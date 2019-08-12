@@ -11,3 +11,7 @@
 1.0.5:
 ======
     [Modify] Cleanup
+
+1.0.6:
+======
+    [Modify] Update localization file

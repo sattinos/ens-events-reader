@@ -1,21 +1,21 @@
 import { LocalizationDictionary } from "../lib/controller/localizer";
 
 export const texts: LocalizationDictionary = {
-  title: ['ENS Events Reader', 'Evenementen gevonden'],
-  connectorLabel: ['Connectionn Status', 'Verbindingsstatus'],
-  connectBtn: ['Re-Connect', 'sluit'],
-  readEvents: ['Read ENS Events', 'Lees ENS-evenementen'],
-  readBtn: ['Start Reading', 'Start met lezen'],
-  blockesPerDay: ['Blocks per day', 'Blokken per dag'],
-  blockesPerDayPlaceholder: ['Enter the approximate generated blocks per day', 'Voer de bij benadering gegenereerde blokken per dag in'],
-  limit: ['Events count limit', 'Limiet voor evenementen'],
+  title: ['ENS Events Reader', 'ENS Ereignisleser'],
+  connectorLabel: ['Connectionn Status', 'Verbindungsstatus'],
+  connectBtn: ['Re-Connect', 'wieder verbinden'],
+  readEvents: ['Read ENS Events', 'ENS-Ereignis lesen'],
+  readBtn: ['Start Reading', 'Anfangen zu lesen'],
+  blockesPerDay: ['Blocks per day', 'Blöcke pro Tag'],
+  blockesPerDayPlaceholder: ['Enter the approximate generated blocks per day', 'Geben Sie die ungefähre anzahl der generierten Blöcke pro Tag ein'],
+  limit: ['Events count limit', 'limit der Events'],
   limitPlaceHolder: ['Limit the results count here', 'Beperk het aantal resultaten hier'],
-  fromBlock: ['From Block', 'Van blok'],
-  fromBlockNumber: ['From Block Number', 'Van bloknummer'],
-  toBlock: ['To Block', 'Blokkeren'],
-  toBlockNumber: ['To Block Number', 'Nummer blokkeren'],
-  fromBlockNumberPlaceHolder: ['enter the number of the block you want events to start from', 'voer het nummer in van het blok waarvan u wilt dat evenementen beginnen'],
-  toBlockNumberPlaceHolder: ['enter the number of the block you want events to finish at', 'voer het nummer in van het blok waar de evenementen moeten eindigen'],
-  contractAddress: ['Contract Address', 'Contractadres'],
-  results: ['Events Found', 'Evenementen gevonden']
+  fromBlock: ['From Block', 'vom Block'],
+  fromBlockNumber: ['From Block Number', 'von Blocknummer'],
+  toBlock: ['To Block', 'zum Block'],
+  toBlockNumber: ['To Block Number', 'Zur Blocknummer'],
+  fromBlockNumberPlaceHolder: ['enter the number of the block you want events to start from', 'Geben Sie die nummer des Blocks ein, von dem aus die Ereignisse beginnen sollen'],
+  toBlockNumberPlaceHolder: ['enter the number of the block you want events to finish at', 'Geben Sie die nummer des Blocks ein, von dem aus die Ereignisse enden sollen'],
+  contractAddress: ['Contract Address', 'vertrag Adresse'],
+  results: ['Events Found', 'gefundene Ereignisse']
 };

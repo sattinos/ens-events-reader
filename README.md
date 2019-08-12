@@ -3,6 +3,8 @@
 This is a simple web page that connects to the blockchain network using the [in3](https://in3.readthedocs.io/en/develop/api-ts.html) client.<br>
 Once the connection is established, it allows the user to see the NameRegistered events based on some choices.
 
+You can see a demo of the app [here](https://sattinos.github.io/ens-events-reader/)
+
 ## Preriquisites
 
 - Nodejs v10.15.3 or higher
