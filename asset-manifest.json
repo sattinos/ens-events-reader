@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ens-events-reader/static/css/main.da867661.chunk.css",
-    "main.js": "/ens-events-reader/static/js/main.e0de5ac9.chunk.js",
-    "main.js.map": "/ens-events-reader/static/js/main.e0de5ac9.chunk.js.map",
+    "main.js": "/ens-events-reader/static/js/main.474a6777.chunk.js",
+    "main.js.map": "/ens-events-reader/static/js/main.474a6777.chunk.js.map",
     "runtime~main.js": "/ens-events-reader/static/js/runtime~main.acb4dfba.js",
     "runtime~main.js.map": "/ens-events-reader/static/js/runtime~main.acb4dfba.js.map",
     "static/js/2.de36e518.chunk.js": "/ens-events-reader/static/js/2.de36e518.chunk.js",
     "static/js/2.de36e518.chunk.js.map": "/ens-events-reader/static/js/2.de36e518.chunk.js.map",
     "index.html": "/ens-events-reader/index.html",
-    "precache-manifest.8dba6e3e18883df42be14f71c9c9238c.js": "/ens-events-reader/precache-manifest.8dba6e3e18883df42be14f71c9c9238c.js",
+    "precache-manifest.e18d87adbadf09ba42df3b825a64935e.js": "/ens-events-reader/precache-manifest.e18d87adbadf09ba42df3b825a64935e.js",
     "service-worker.js": "/ens-events-reader/service-worker.js",
     "static/css/main.da867661.chunk.css.map": "/ens-events-reader/static/css/main.da867661.chunk.css.map"
   }
