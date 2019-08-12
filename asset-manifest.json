@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ens-events-reader-client/static/css/main.da867661.chunk.css",
+    "main.js": "/ens-events-reader-client/static/js/main.49c0f9f6.chunk.js",
+    "main.js.map": "/ens-events-reader-client/static/js/main.49c0f9f6.chunk.js.map",
+    "runtime~main.js": "/ens-events-reader-client/static/js/runtime~main.d6e38a9d.js",
+    "runtime~main.js.map": "/ens-events-reader-client/static/js/runtime~main.d6e38a9d.js.map",
+    "static/js/2.7382ad5f.chunk.js": "/ens-events-reader-client/static/js/2.7382ad5f.chunk.js",
+    "static/js/2.7382ad5f.chunk.js.map": "/ens-events-reader-client/static/js/2.7382ad5f.chunk.js.map",
+    "index.html": "/ens-events-reader-client/index.html",
+    "precache-manifest.ef38b5e52b9123969c4eca48526b85ff.js": "/ens-events-reader-client/precache-manifest.ef38b5e52b9123969c4eca48526b85ff.js",
+    "service-worker.js": "/ens-events-reader-client/service-worker.js",
+    "static/css/main.da867661.chunk.css.map": "/ens-events-reader-client/static/css/main.da867661.chunk.css.map"
+  }
+}
