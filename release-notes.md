@@ -7,3 +7,7 @@
 1.0.4:
 ======
     [Modify] recover files deleted by deploy script
+
+1.0.5:
+======
+    [Modify] Cleanup
