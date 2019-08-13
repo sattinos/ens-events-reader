@@ -15,3 +15,7 @@
 1.0.6:
 ======
     [Modify] Update localization file
+
+1.0.7:
+======
+    [Modify] Update localization file

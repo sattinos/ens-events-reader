@@ -10,8 +10,8 @@ export enum Language {
 }
 
 export const languageOptions = [
-    'english',
-    'deutsch'
+    'English',
+    'Deutsch'
 ];
 
 class Localizer {

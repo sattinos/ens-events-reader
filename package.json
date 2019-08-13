@@ -1,6 +1,6 @@
 {
   "name": "ens-events-reader-client",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "private": false,
   "dependencies": {
     "@types/jest": "24.0.17",
